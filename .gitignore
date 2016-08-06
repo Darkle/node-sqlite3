@@ -10,7 +10,7 @@ out
 Release
 Debug
 node_modules
-.deps
+#.deps
 Makefile.gyp
 gyp-mac-tool
 .dirstamp
